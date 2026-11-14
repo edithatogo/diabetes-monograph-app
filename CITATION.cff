@@ -3,6 +3,10 @@ message: If you use this fork, please cite it using these metadata and identify 
   commit or release used. Upstream attribution is recorded in references.
 title: Diabetes Monograph App
 authors:
+- family-names: Sanyal
+  given-names: Arjun
+- family-names: Eastwood
+  given-names: Rachel
 - name: Boston Children's Hospital
 - name: SMART project contributors
 repository-code: https://github.com/edithatogo/diabetes-monograph-app
@@ -11,6 +15,10 @@ references:
 - type: software
   title: Diabetes Monograph App
   authors:
+  - family-names: Sanyal
+    given-names: Arjun
+  - family-names: Eastwood
+    given-names: Rachel
   - name: Boston Children's Hospital
   - name: SMART project contributors
   repository-code: https://github.com/smart-on-fhir/diabetes-monograph-app
